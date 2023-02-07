@@ -1,0 +1,11 @@
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\bin\Debug\oldCalculator-exercise3.exe.config
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\bin\Debug\oldCalculator-exercise3.exe
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\bin\Debug\oldCalculator-exercise3.pdb
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\obj\Debug\oldCalculator-exercise3.csproj.AssemblyReference.cache
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\obj\Debug\oldCalculator-exercise3.csproj.SuggestedBindingRedirects.cache
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\obj\Debug\oldCalculator_exercise3.Form1.resources
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\obj\Debug\oldCalculator_exercise3.Properties.Resources.resources
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\obj\Debug\oldCalculator-exercise3.csproj.GenerateResource.cache
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\obj\Debug\oldCalculator-exercise3.csproj.CoreCompileInputs.cache
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\obj\Debug\oldCalculator-exercise3.exe
+D:\HCMUTE\Subject\2022-2023\Semester2\Windows_Programming\Practice\w1\oldCalculator-exercise3\oldCalculator-exercise3\obj\Debug\oldCalculator-exercise3.pdb
